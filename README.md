@@ -5,6 +5,8 @@ does not download or watch shit below 720p
 It might have bugs and will look like rough work but will do the job.
 If encountred any issues pull request or fix yourself
 
+***It Downloads in Videos directory***
+
 ## Installation
 
 Use the package manager of your distro to install packages .
@@ -22,6 +24,7 @@ chmod +x dafsex.sh
 ./daftsex.sh
 ```
 Search like you search on daftsex.com
+***It Downloads in Videos directory***
 
 ## Contributing
 
