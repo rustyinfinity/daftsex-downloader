@@ -1,7 +1,7 @@
 # daftsex-downloader
 
-A shitty bash script to download 720p videos from datsex.com
-does not download shit below 720p
+A shitty bash script to download and watch 720p videos from datsex.com
+does not download or watch shit below 720p
 It might have bugs and will look like rough work but will do the job.
 If encountred any issues pull request or fix yourself
 
