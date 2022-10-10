@@ -10,6 +10,7 @@ If encountred any issues pull request or fix yourself
 Use the package manager of your distro to install packages .
 
 axel to download
+
 mpv to watch
 
 you can change it according your prefrence in the code both works best for now.
